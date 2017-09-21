@@ -1,1 +1,1 @@
-worker: node runelinebot.js
+worker: node bot.js
